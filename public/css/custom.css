@@ -1,0 +1,58 @@
+/* 
+    CSS Designed by Abdul Haq (https://it.haq.life)
+    Copyright 2025 Abdul Haq. All rights reserved.
+    
+    This website uses the following frameworks and libraries:
+    - CSS by Abdul Haq
+*/
+
+[data-bs-theme=light] {
+    --bs-primary: #ce0000;
+    --bs-text-primary: #ce0000;
+    --bs-primary-light: #fff0e9;
+    --bs-primary-active: #d64708;
+}
+a {
+    color: #ce0000;
+}
+
+.link-primary {
+    color: #ce0000 !important;
+}
+
+.active>.page-link, .page-link.active {
+    background-color: #ce0000 !important;
+}
+.page-link:hover {
+    color: #ce0000 !important;
+}
+
+.form-check-input:checked {
+    background-color: #ce1f03;
+    border-color: #ce1f03;
+}
+
+@media (min-width: 992px) {
+    .app-container {
+        min-width: 900px;
+    }
+}
+
+/** ============= Help button ============== **/
+.float{
+	position:fixed;
+	width:60px;
+	height:60px;
+	bottom:40px;
+	right:40px;
+	background-color:#ce0000;
+	color:#FFF;
+	border-radius:50px;
+	text-align:center;
+	box-shadow: 2px 1px 2px #999;
+}
+
+.my-float{
+	margin-top:18px;
+    color: white !important;
+}

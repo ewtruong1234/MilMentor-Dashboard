@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "img": "https://static.dezeen.com/uploads/2025/05/sq-google-g-logo-update_dezeen_2364_col_0-852x852.jpg",
+      "title": "Software Engineer",
+      "company": "Google",
+      "salary": "$100K/yr - $115K/yr",
+      "location": "San Francisco, CA",
+      "job-site": "Remote"
+    },
+    {
+      "img": "https://media.licdn.com/dms/image/v2/D4E0BAQHYCgYovUuPtQ/company-logo_200_200/company-logo_200_200/0/1665755678957/oracle_logo?e=1753920000&v=beta&t=Ff4B8k11PuXq6AQnoz3jGJCEKokTrLJxIUqf8LVWjdU",
+      "title": "UX Designer",
+      "company": "Oracle",
+      "salary": "$80K/yr - $95K/yr",
+      "location": "New York, NY",
+      "job-site": "Hybrid"
+    },
+    {
+      "img": "https://images.vexels.com/content/140583/preview/ibm-logo-9289b6.png",
+      "title": "Product Manager",
+      "company": "IBM",
+      "salary": "$110K/yr - $130K/yr",
+      "location": "Austin, TX",
+      "job-site": "On-site"
+    },
+    {
+      "img": "https://brandlogos.net/wp-content/uploads/2016/11/sap-logo_brandlogos.net_irdad.png",
+      "title": "Data Scientist",
+      "company": "SAP",
+      "salary": "$120K/yr - $140K/yr",
+      "location": "Chicago, IL",
+      "job-site": "Remote"
+    },
+    {
+      "img": "https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/adobe-color.png",
+      "title": "DevOps Engineer",
+      "company": "Adobe",
+      "salary": "$105K/yr - $125K/yr",
+      "location": "Seattle, WA",
+      "job-site": "Hybrid"
+    },
+    {
+      "img": "https://cdn.mos.cms.futurecdn.net/v2/t:0,l:256,cw:660,ch:660,q:80,w:660/M4hbiWhoo8n3bQQ2hKg5s3.jpg",
+      "title": "QA Analyst",
+      "company": "Uber",
+      "salary": "$75K/yr - $90K/yr",
+      "location": "Denver, CO",
+      "job-site": "Remote"
+    }
+  ]
+}
